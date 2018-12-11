@@ -1,5 +1,5 @@
 import React from 'react'
-import Appointment from './Appointment'
+import Appointment from './appointment'
 
 export const AppointmentsList = ({appointments}) =>
   <div>
